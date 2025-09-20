@@ -1,3 +1,4 @@
->>> first_funct()
+def first_funct():
+    pass
 1
 2

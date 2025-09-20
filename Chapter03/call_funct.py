@@ -1,2 +1,6 @@
-a_funct()
 
+def a_funct():
+    pass
+
+
+a_funct()
